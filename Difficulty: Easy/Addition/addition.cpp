@@ -1,0 +1,14 @@
+// create a class Addition
+// with a static function add()
+// this should return the sum of
+// two parameters a and b passed in the parameter
+
+// code here
+class Addition{
+    public:
+           int add(int a,int b)
+           {
+              return a+b;
+           }
+    
+};
